@@ -2,7 +2,7 @@
 $pageTitle = 'Index';
 include 'header.php';
 ?>
-
+<! - pagina principal do site dedicado a exibicao dos espetaculos em cartaz ->
     <div class="wrapper">
         <div class="header">
             <a href="index.php"><img class="logo" src="imgs/mascara2.jpg" alt="Vais ao teatro?"></a>
